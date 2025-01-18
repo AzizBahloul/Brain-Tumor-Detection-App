@@ -146,8 +146,8 @@ If you use this project in your research, please cite:
 ```
 
 ## Contact
-Project Maintainer - your.email@example.com
-Project Link: https://github.com/yourusername/brain-tumor-detection
+Project Maintainer - azizbahloul3@gmail.com
+
 
 ## Acknowledgments
 - Dataset provided by [Institution Name]
